@@ -13,5 +13,10 @@
     "title": "\uD83C\uDFB5 Miror B.ot",
     "description": "Miror B.ot Announce Sound management.",
     "url": "https://mirorbot.api.serveymcserveface.com"
+  },
+  "index": {
+    "title": "\uD83D\uDDC2️ Index",
+    "description": "Index of available APIs.",
+    "url": "https://api.serveymcserveface.com"
   }
 }
